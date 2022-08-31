@@ -5,3 +5,4 @@
 5-listfilesdigitonly = This scriptD displays current ditrectory contents in long format with user ans group IDs displayed numerically.
 5-listfilesdigitsonly = This script list all files contemnts of the current directory with digit only.
 6-firstdirectory = This scripts creates a directory in a location /tmp/
+7-movethatfile = This script Move the file betty from /tmp/ to /tmp/my_first_directory.
