@@ -9,3 +9,4 @@
 8-James_Bond - zero permissions to all
 10-mirror_permissions - Changes mde of the file hello to the specified
 11-directories_permissions - Changes the mode of the file hello to be the same as olleh's
+11-directories_permissions - directory permissions
