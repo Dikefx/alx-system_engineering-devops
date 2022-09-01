@@ -6,3 +6,4 @@
 5-execute - Give s execute permission to the file owner of hello.
 6-multiple_permissions - Multiple permissions
 7-everybody -  Permission to everybody
+8-James_Bond - zero permissions to all
